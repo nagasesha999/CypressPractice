@@ -1,0 +1,20 @@
+{
+    "defaultCommandTimeout" : 8000,
+    "reporter":"mochawesome",
+    "env" : {
+        "url":"https://rahulshettyacademy.com/"
+        
+    },
+
+    "retries":{
+        "runMode":1
+    },
+
+    "testFile":"cypress/***/eCommerce.feature"
+
+
+    
+    
+
+
+}
